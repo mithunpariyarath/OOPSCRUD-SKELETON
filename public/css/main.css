@@ -1,0 +1,23 @@
+body{
+    font-size:90%;
+}
+.font-white{
+    color:#fff!important;
+}
+.font-black, h1, h2, h3, h4, h5, h6{
+    color:#000!important;
+}
+.swal-footer {
+    text-align: center!important;
+}
+.cadetblue{
+    color:#28a745!important;
+    height:20px!important;
+    width:20px!important;
+}
+.fw-500{
+    font-weight:500;
+}
+.deeppink{
+    color:deeppink;
+}
