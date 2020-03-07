@@ -3,7 +3,7 @@
  
  Note: The contact entries are auto generated values. Didn't used any routers or .HTACCESS mods to implement MVC. 
 
-Designed as a Single Page CRUD Module using Jquery and Ajax. On Backed used Model(db) View(index) Controller(action) approach. 
+Designed as a Single Page CRUD Module using Jquery and Ajax. On Backend used Model(db) View(index) Controller(action) approach. 
 
 
 # Screenshot 
